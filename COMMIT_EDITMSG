@@ -1,0 +1,7 @@
+Enable users to create accounts and log in to access the platform
+
+Implement custom authentication with signup, signin, and signout routes using bcryptjs for password hashing.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 31eaec14-11e1-4df0-8aa7-3a0c43795dfb
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/5c2863d1-f958-4821-9f19-5dd924d509cf/5f0fd1e0-102c-4268-8f19-48f3998bee2c.jpg
