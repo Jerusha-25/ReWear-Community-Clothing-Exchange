@@ -22,7 +22,7 @@ Users can:
 |--------------|----------------------------------------------|
 | **Frontend** | React, TypeScript, Vite, CSS Modules         |
 | **Backend**  | Express.js, TypeScript, Node.js              |
-| **Storage**  | In-memory or JSON-based custom storage (for now) |
+| **Storage**  | MongoDb                                      |
 | **Auth**     | Custom Session-based Authentication with `express-session` |
 | **Dev Tools**| ts-node, nodemon, ESLint, Prettier           |
 
