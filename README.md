@@ -1,22 +1,22 @@
-# 👕 ReWear - Community Clothing Exchange
+#  ReWear - Community Clothing Exchange
 
 ReWear is a full-stack web application that empowers local communities to exchange clothes easily, sustainably, and socially. It’s more than just a swap shop—it's a **community-driven circular fashion movement**.
 
 ---
 
-## 🌍 About the Project
+##  About the Project
 
 Fast fashion has contributed to alarming levels of textile waste. **ReWear** was created to **reduce waste**, **promote reuse**, and **foster community engagement** through a localized clothing exchange platform.
 
 Users can:
-- 🔄 List clothing items they no longer need
-- 🛍️ Browse items others have posted
-- 💬 Communicate and arrange swaps
-- 🧑‍🤝‍🧑 Join a trusted, authenticated network of swappers
+-  List clothing items they no longer need
+-  Browse items others have posted
+-  Communicate and arrange swaps
+-  Join a trusted, authenticated network of swappers
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Layer        | Technology                                   |
 |--------------|----------------------------------------------|
@@ -28,42 +28,42 @@ Users can:
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 👚 **Post & Exchange Clothing Items**  
+-  **Post & Exchange Clothing Items**  
   Users can post items they want to give away or exchange.
 
-- 🔐 **Custom Authentication System**  
+-  **Custom Authentication System**  
   No third-party login needed—simple and secure session-based auth.
 
-- 🗃️ **Local Storage Logic**  
+-  **Local Storage Logic**  
   No database required; perfect for demos, local communities, or MVPs.
 
-- 💡 **Shared Types Between Client & Server**  
+-  **Shared Types Between Client & Server**  
   Using a `shared/` folder for synced TypeScript types across the stack.
 
-- 🌐 **CORS-ready and Dev-optimized**  
+-  **CORS-ready and Dev-optimized**  
   Runs backend on `localhost:3001`, frontend on `localhost:5173`.
 
 ---
 
-## 🌟 What Makes ReWear Unique?
+##  What Makes ReWear Unique?
 
-- 🧵 **Hyperlocal Circular Economy**  
+- **Hyperlocal Circular Economy**  
   Built for small communities, colleges, neighborhoods, and eco-clubs.
 
-- 🧠 **Custom-built Authentication**  
+-  **Custom-built Authentication**  
   No dependency on Firebase/Auth0/etc. — full control, zero vendor lock-in.
 
-- 🔄 **Zero-Waste Philosophy**  
+-  **Zero-Waste Philosophy**  
   Every feature promotes sustainability, reuse, and mindful consumption.
 
-- 🧰 **Dev-friendly TypeScript Monorepo**  
+-  **Dev-friendly TypeScript Monorepo**  
   Consistent types and behavior across client/server.
 
 ---
 
-## 🛠 How to Run Locally
+##  How to Run Locally
 
 1. **Clone the Repository**
 
